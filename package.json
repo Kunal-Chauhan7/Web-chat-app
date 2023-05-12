@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Kunal-Chauhan7/Web-chat-app#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mysql": "^2.18.1",
     "socket.io": "^4.6.1"
   },
   "devDependencies": {
